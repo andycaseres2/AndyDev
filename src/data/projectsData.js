@@ -49,6 +49,36 @@ export const projectsData = [
     demo: 'https://spacex-missions-eight.vercel.app/',
     image: 'https://i.ibb.co/1nWygZv/spaceX.png',
   },
+  {
+    id: 5,
+    projectName: 'TODO React + TypeScript',
+    projectDesc:
+      'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+    tags: ['React', 'CSS', 'TypeScript'],
+    code: 'https://github.com/andycaseres2/Tareas-React-Typescript',
+    demo: 'https://tareas-react-typescript.vercel.app/',
+    image: 'https://i.ibb.co/2YPpDyD/todo-react-typescrip.png',
+  },
+  {
+    id: 6,
+    projectName: 'Pokedex',
+    projectDesc:
+      'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Fetch'],
+    code: 'https://github.com/andycaseres2/PokeDexJS',
+    demo: 'https://pokedex-sand-psi.vercel.app/',
+    image: 'https://i.ibb.co/X8Tnrg7/poke.png',
+  },
+  {
+    id: 7,
+    projectName: 'Calculator',
+    projectDesc:
+      'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    code: 'https://github.com/andycaseres2/CalculadoraJs',
+    demo: 'https://calculadora-sable.vercel.app/',
+    image: 'https://i.ibb.co/dPCxdvB/calculadora.png',
+  },
 ]
 
 // Do not remove any fields.

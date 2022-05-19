@@ -7,9 +7,9 @@ import {
   Landing,
   About,
   Skills,
-  Education,
   Contacts,
   Projects,
+  //Education,
   // Experience,
   //Testimonials,
   //  Blog,
@@ -30,8 +30,10 @@ function Main() {
       <About />
       <Projects />
       <Skills />
+
+      {/*
       <Education />
-      {/*  <Experience />
+      <Experience />
            <Achievement />
             <Services />
             <Blog /> 

@@ -7,11 +7,11 @@ import {
   Landing,
   About,
   Skills,
-  Testimonials,
   Education,
-  Experience,
   Contacts,
   Projects,
+  // Experience,
+  //Testimonials,
   //  Blog,
   // Services,
   // Achievement,
@@ -30,12 +30,12 @@ function Main() {
       <About />
       <Projects />
       <Skills />
-      <Experience />
       <Education />
-      {/* <Achievement />
+      {/*  <Experience />
+           <Achievement />
             <Services />
             <Blog /> 
-      <Testimonials />*/}
+           <Testimonials />*/}
       <Contacts />
       <Footer />
     </div>

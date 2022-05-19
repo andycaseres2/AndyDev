@@ -3,6 +3,6 @@ export const aboutData = {
   description1:
     "My name's Andy. I'm a Frontend Developer Junior based in Bogota D.C, Colombia.",
   description2:
-    "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    "I am a young man passionate about programming, self-taught. I have a very good level of learning. I hope soon to fulfill my dream of working in the IT sector and thus give the best of myself and develop my skills and knowledge, fulfilling the team's objectives.",
   image: 1,
 }

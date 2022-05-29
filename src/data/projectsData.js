@@ -41,16 +41,25 @@ export const projectsData = [
 
   {
     id: 4,
+    projectName: "App Star Wars",
+    projectDesc: "app made with the starwars api to show your movies.",
+    tags: ["React", "CSS", "JavaScript", "Fetch", "ChakraUI"],
+    code: "https://github.com/andycaseres2/AcStarsWars",
+    demo: "https://ac-stars-wars.vercel.app/",
+    image: "https://i.ibb.co/bd21V2p/starwarsapi.png",
+  },
+  {
+    id: 5,
     projectName: "SpaceX Missions",
     projectDesc:
       "app using the spaceX API to obtain the information of the missions carried out and other details.",
-    tags: ["React", "CSS", "JavaScript", "Fetch"],
+    tags: ["React", "CSS", "JavaScript", "Fetch", "ChakraUI"],
     code: "https://github.com/andycaseres2/spacex-missions",
     demo: "https://spacex-missions-eight.vercel.app/",
     image: "https://i.ibb.co/1nWygZv/spaceX.png",
   },
   {
-    id: 5,
+    id: 6,
     projectName: "TODO React + TypeScript",
     projectDesc:
       "TODO list made with react and typescript in which you can add your daily tasks and be able to complete and/or delete them.",
@@ -60,7 +69,7 @@ export const projectsData = [
     image: "https://i.ibb.co/2YPpDyD/todo-react-typescrip.png",
   },
   {
-    id: 6,
+    id: 7,
     projectName: "Pokedex",
     projectDesc:
       "Pokedex knows the statistics and abilities of your favorite pokemons.",
@@ -70,7 +79,7 @@ export const projectsData = [
     image: "https://i.ibb.co/X8Tnrg7/poke.png",
   },
   {
-    id: 7,
+    id: 8,
     projectName: "Calculator",
     projectDesc:
       "Calculator, all the functionalities of the classic calculator in optimal operation.",
